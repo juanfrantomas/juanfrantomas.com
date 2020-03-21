@@ -1,0 +1,19 @@
+{
+  "name": "juanfrantomas.com",
+  "version": "1.0.0",
+  "description": "Web/Blog personal Juanfran Tomas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanfrantomas/juanfrantomas.com.git"
+  },
+  "author": "Juanfran Tomas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanfrantomas/juanfrantomas.com/issues"
+  },
+  "homepage": "https://github.com/juanfrantomas/juanfrantomas.com#readme"
+}
